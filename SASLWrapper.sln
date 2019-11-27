@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SASLWrapper", "SASLWrapper\SASLWrapper.csproj", "{B1CC1990-9A43-4122-A014-4FE2771CFD2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1CC1990-9A43-4122-A014-4FE2771CFD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1CC1990-9A43-4122-A014-4FE2771CFD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1CC1990-9A43-4122-A014-4FE2771CFD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1CC1990-9A43-4122-A014-4FE2771CFD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D50EB517-82F0-4718-B494-B78C67C5307B}
+	EndGlobalSection
+EndGlobal
